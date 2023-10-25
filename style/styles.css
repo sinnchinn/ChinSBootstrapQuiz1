@@ -1,0 +1,22 @@
+h3 {
+    color: salmon;
+    text-align: center;
+    font-size: 40px;
+}
+
+.margin {
+    margin-top: 8%;
+}
+
+.margin2 {
+    margin-top: 20%;
+}
+
+.rightDisplay {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.background {
+    background-color: purple;
+}
